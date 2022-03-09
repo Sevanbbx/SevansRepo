@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Tigran",
+      "surname": "Ananyan",
+      "age": 22
+    },
+    {
+      "id": 2,
+      "name": "Vardan",
+      "surname": "Parzyan",
+      "age": 26
+    },
+    {
+      "id": 3,
+      "name": "Sevan",
+      "surname": "Shahnazaryan",
+      "age": 20
+    },
+    {
+      "id": 4,
+      "name": "Margarita",
+      "surname": "Hambaryan",
+      "age": 16
+    },
+    {
+      "id": 5,
+      "name": "Qristine",
+      "surname": "Harutyunyan",
+      "age": 27
+    },
+    {
+      "id": 6,
+      "name": "Zaven",
+      "surname": "Movsisyan",
+      "age": 17
+    },
+    {
+      "id": 7,
+      "name": "Alen",
+      "surname": "Hakobyan",
+      "age": 27
+    },
+    {
+      "id": 8,
+      "name": "Angela",
+      "surname": "Matevosyan",
+      "age": 19
+    },
+    {
+      "id": 9,
+      "name": "Alina",
+      "surname": "Petrosyan",
+      "age": 18
+    },
+    {
+      "id": 10,
+      "name": "Arshak",
+      "surname": "Badalyan",
+      "age": 26
+    }
+  ]
+}
